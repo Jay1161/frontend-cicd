@@ -15,7 +15,7 @@ function App() {
         {/* ... */}
       </div>
       <div className='Creator'>
-        <h6>Proudly Created By the Jay Vaja</h6>
+        <h6>Proudly Created By the Great Jay Vaja</h6>
       </div>
 
       {/* <header className="App-header">
